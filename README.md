@@ -72,28 +72,72 @@ Create a comprehensive alumni portal for Ateneo de Davao University featuring:
 
 ### Screenshots
 
-Create an `images/` folder in your root directory and place all screenshots there.
+#### 🎓 Alumni Module
 
-Use the following format to embed images:
+##### Login Screen
+![Alumni Login](images/01-alumni-login.png)
+*Role selection between Alumni and Office Staff with email/password authentication, biometric login, and Google Sign-In options*
 
-```markdown
-![Alt text](images/screenshot-name.png)
-```
+##### Alumni Dashboard
+![Alumni Dashboard](images/02-alumni-dashboard.png)
+*Main dashboard showing welcome message, digital credential card, quick actions, and account statistics with request count, verification status, and completed documents*
 
-Example:
-```markdown
-#### Login Screen
-![Login Dashboard](images/login-screen.png)
+##### My Profile - Academic Passport
+![Academic Passport](images/03-alumni-profile.png)
+*Digital Academic Passport with verified alumni status, academic information (program, graduation date), and contact details. Options to download PDF or share credential*
 
-#### Alumni Dashboard
-![Alumni Dashboard](images/dashboard-alumni.png)
+##### Request Documents
+![Document Request](images/04-alumni-documents.png)
+*Multi-step document request form showing various document types available (TOR, Diploma, Certificate of Graduation, Certificate of Enrollment, GWA Certificate, Honorable Dismissal, Document Authentication) with pricing and processing time*
 
-#### Document Request Form
-![Document Request](images/document-request.png)
+##### Full Transcript Viewer
+![Transcript Viewer](images/05-alumni-transcript.png)
+*Modal popup showing full transcript details including total credits (120), cumulative GPA (1.45), and graduation status (Graduated with Honors)*
 
-#### Staff Dashboard
-![Staff Dashboard](images/staff-dashboard.png)
-```
+---
+
+#### 🏛️ Staff Module
+
+##### Staff Login Screen
+![Staff Login](images/06-staff-login.png)
+*Login screen with Office Staff selected, showing employee number field instead of student number*
+
+##### Staff Dashboard
+![Staff Dashboard](images/07-staff-dashboard.png)
+*Main staff dashboard for John Administrator showing different operations (Verification, Document Log, Process Documents, Inventory Alerts, Payment Verification) with quick actions and latest notifications*
+
+##### Staff My Profile
+![Staff Profile](images/08-staff-profile.png)
+*Staff member profile (John Administrator) showing academic information and access to manage biometrics or sign out*
+
+##### Verification Dashboard
+![Verification Dashboard](images/09-staff-verification.png)
+*Profile verification interface showing pending verifications and verified alumni count. Table displays student ID, name, program, and verification date submitted*
+
+##### Document Log
+![Document Log](images/10-staff-document-log.png)
+*Document logging system for registrar staff with barcode/QR code scanning capabilities for automatic document tracking*
+
+##### Process Documents
+![Process Documents](images/11-staff-process-documents.png)
+*Active batch processing interface showing document preparation stages:
+- Pending: 2 batches ready
+- In Progress: 8 batches currently processing  
+- Completed: 24 batches ready to deliver
+- Progress bar for current batch processing (Transcript of Records)*
+
+##### Inventory Alerts
+![Inventory Alerts](images/12-staff-inventory.png)
+*Stock monitoring system showing:
+- Diploma Paper: Sufficient (2,450 units, reorder from 500 units)
+- Binding Materials: Critical (200 units remaining, needs reorder)*
+
+##### Payment Verification
+![Payment Verification](images/13-staff-payment.png)
+*Payment verification interface showing:
+- Unmatched Payments table with reference codes, amounts, and verification status
+- Document Log showing recent requests with status and amounts
+- Support for multiple payment methods (GCash, bank transfers)*
 
 ### Project Structure
 
