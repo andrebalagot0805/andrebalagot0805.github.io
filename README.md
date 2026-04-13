@@ -1,45 +1,78 @@
 # Balagot
 
-## Project Details
-- **Framework:** Svelte.js
-- **Module:** Alumni Portal: Document Request
+**Framework:** Svelte JS  
+**Module:** Alumni Portal – Document Request System  
+**AI Tool Used:** Claude AI (claude.ai)
 
-## Repository
-- https://github.com/andrebalagot0805/firstattempt2026_Balagot.git
+---
 
-## Installation
-Follow these steps to replicate the repository and run the application on a different computer:
+## 📌 Description
 
-### 1. Prerequisites
-- Install [Node.js](https://nodejs.org/)
-- Install npm (comes with Node.js)
+A web application built using **Svelte JS + Vite** for the Alumni Portal Document Request System.
 
-### 2. Clone the Repository
+This system allows users to request, manage, and process alumni documents efficiently through a simple and responsive web interface.
+
+---
+
+## 🚀 Installation – How to Run This Project
+
+### ✅ Requirements
+- **Node.js** v18 or higher → https://nodejs.org
+- **Git** → https://git-scm.com
+- A terminal / command prompt
+
+---
+
+### Step 1 – Clone the Repository
+
 ```bash
 git clone https://github.com/andrebalagot0805/firstattempt2026_Balagot.git
+```
+### Step 2 – Navigate Into the Project Folder
+
+```bash
 cd firstattempt2026_Balagot
-3. Install Dependencies
+```
+
+### Step 3 – Install Dependencies
+
+```bash
 npm install
-4. Run the Development Server
+```
+
+### Step 4 – Run the Development Server
+
+```bash
 npm run dev
-The application will be available at:
-http://localhost:5173
-AI Tools Used
-Google Gemini (Code generation and Lead Developer Persona)
-Claude (UI/UX polishing and implementation)
-GitHub Copilot (Real-time tweaks)
-Prompt
+```
+You will see output like:
+```
+VITE vX.X.X ready in XXX ms
 
-Pretend you are a senior developer at Ateneo de Davao's faculty.
-You are tasked to convert the mobile application into a desktop website.
-I will be sending screenshots of the figma prototype along with its flow.
-According to the google document, please do the task. Make sure it is implemented using Svelte.js.
-The design must be the same as the mobile app screenshots from the google document.
+Local: http://localhost:5173/
+```
+### Step 5 – Open in Browser
+```
+http://localhost:5173/
+```
 
-https://docs.google.com/document/d/15MJ0UUTx85zTlSI5XH1hmJZ4inzoYhlPsKg80DnidXA/edit?tab=t.qh2shoz8hbjp
+### Step 6 – Build for Production (Optional)
+```bash
+npm run build
+```
 
-Screenshots
+🤖 AI Tool Used
+Claude AI – https://claude.ai
+Chatgpt
+Copilot
+Used for UI structure, page logic, and component planning
 
-Below are the official screenshots of the web application in a desktop browser:
+📸 Screenshots
 
-<!-- Add your screenshots here --> <!-- Example: ![Homepage](./screenshots/homepage.png) ![Dashboard](./screenshots/dashboard.png) -->
+
+
+
+
+
+
+
