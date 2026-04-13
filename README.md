@@ -75,36 +75,22 @@ Create a comprehensive alumni portal for Ateneo de Davao University featuring:
 #### 🎓 Alumni Module
 
 ##### Login Screen
-![](https://github.com/andrebalagot0805/andrebalagot0805.github.io/blob/main/2550ae62-d50b-4eb7-9a2f-2701696e6896.jpg)
-![](https://github.com/andrebalagot0805/andrebalagot0805.github.io/blob/main/e7348d98-44f0-403a-8a6a-06556226b7c8.jpg)
-
-![](https://github.com/andrebalagot0805/andrebalagot0805.github.io/blob/main/d4ed5ce0-7e62-4dcf-aabc-f5239a1d5787.jpg)
-
-![](https://github.com/andrebalagot0805/andrebalagot0805.github.io/blob/main/c6cc646a-2953-4f91-9464-c656605e451c.jpg)
-
-![](https://github.com/andrebalagot0805/andrebalagot0805.github.io/blob/main/be2f175a-0f23-4840-8c03-7a1db5365d7c.jpg)
-
-![](https://github.com/andrebalagot0805/andrebalagot0805.github.io/blob/main/a55513e4-b902-4ada-af6e-5e55a76cb260.jpg)
-
-![](https://github.com/andrebalagot0805/andrebalagot0805.github.io/blob/main/91dd7620-dd6d-43b1-a6ee-cba8cffdb581.jpg)
-
-![](https://github.com/andrebalagot0805/andrebalagot0805.github.io/blob/main/6fdfb96d-2e69-43bb-9ac9-ee8ae8178708.jpg)
-
-![](https://github.com/andrebalagot0805/andrebalagot0805.github.io/blob/main/271c0b4a-3b3a-4446-95d9-ce96124482e5.jpg)
-
-![](https://github.com/andrebalagot0805/andrebalagot0805.github.io/blob/main/24265f61-541d-4428-a085-904874879775.jpg)
-
-![](https://github.com/andrebalagot0805/andrebalagot0805.github.io/blob/main/106205c9-85b3-4584-ad1b-ca9b5971b7f4.jpg)
-
-![](https://github.com/andrebalagot0805/andrebalagot0805.github.io/blob/main/03146867-1d56-4188-9ee7-e97fa0ebed8b.jpg)
-![](https://github.com/andrebalagot0805/andrebalagot0805.github.io/blob/main/5de30748-7ba9-42db-9809-4569250b531b.jpg)
-
-![](https://github.com/andrebalagot0805/andrebalagot0805.github.io/blob/main/7474ae25-f545-493b-bd48-520aa31d40af.jpg)
-
-![](https://github.com/andrebalagot0805/andrebalagot0805.github.io/blob/main/add3d1be-77bb-45a4-a40e-327d09687301.jpg)
-
-![](https://github.com/andrebalagot0805/andrebalagot0805.github.io/blob/main/c5833b60-5f71-4979-8fac-14aefe762f22.jpg)
-
+![Image](https://github.com/user-attachments/assets/c785b43a-0283-4adb-be7c-7ee51a12c4a7)
+![Image](https://github.com/user-attachments/assets/7c026338-3829-4f6c-aa98-02664261a910)
+![Image](https://github.com/user-attachments/assets/5e0e4803-3321-4a1c-a323-b3a752ae9985)
+![Image](https://github.com/user-attachments/assets/ebc9b107-f346-4cc5-b0b9-4983151c10da)
+![Image](https://github.com/user-attachments/assets/fdec254b-5c50-44c9-b7bb-6f5ecb977e2a)
+![Image](https://github.com/user-attachments/assets/d4c03b62-1986-4159-85f7-b6a0e350605c)
+![Image](https://github.com/user-attachments/assets/c7d6ce62-9322-4361-817c-93fbec8bd7ef)
+![Image](https://github.com/user-attachments/assets/d99251ab-6878-4aa7-9132-830c2cde97e8)
+![Image](https://github.com/user-attachments/assets/2b54e2f5-e738-44ee-8060-d933e522664c)
+![Image](https://github.com/user-attachments/assets/9c05ed6f-ad43-4495-8152-d6979aee1ad8)
+![Image](https://github.com/user-attachments/assets/bba2921d-af10-439d-a05b-75c132ec7cc1)
+![Image](https://github.com/user-attachments/assets/710b5dec-4bf3-4630-9215-3a6c04fb2f0c)
+![Image](https://github.com/user-attachments/assets/52cb8ce8-053c-4124-805e-59b894b7920f)
+![Image](https://github.com/user-attachments/assets/c7469996-dc91-467d-9234-43d69b61daee)
+![Image](https://github.com/user-attachments/assets/f90cca3a-517f-425e-92c3-6438313ba177)
+![Image](https://github.com/user-attachments/assets/37301718-bc4b-4d05-9d10-c52f43e93cbf)
 
 
 
