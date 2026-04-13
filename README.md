@@ -89,8 +89,6 @@ Create a comprehensive alumni portal for Ateneo de Davao University featuring:
 
 ![](https://github.com/andrebalagot0805/andrebalagot0805.github.io/blob/main/6fdfb96d-2e69-43bb-9ac9-ee8ae8178708.jpg)
 
-![](https://github.com/andrebalagot0805/andrebalagot0805.github.io/blob/main/485af6c7-13e9-4385-aade-fb575d211da9.jpg)
-
 ![](https://github.com/andrebalagot0805/andrebalagot0805.github.io/blob/main/271c0b4a-3b3a-4446-95d9-ce96124482e5.jpg)
 
 ![](https://github.com/andrebalagot0805/andrebalagot0805.github.io/blob/main/24265f61-541d-4428-a085-904874879775.jpg)
@@ -98,6 +96,7 @@ Create a comprehensive alumni portal for Ateneo de Davao University featuring:
 ![](https://github.com/andrebalagot0805/andrebalagot0805.github.io/blob/main/106205c9-85b3-4584-ad1b-ca9b5971b7f4.jpg)
 
 ![](https://github.com/andrebalagot0805/andrebalagot0805.github.io/blob/main/03146867-1d56-4188-9ee7-e97fa0ebed8b.jpg)
+
 
 ### Project Structure
 
