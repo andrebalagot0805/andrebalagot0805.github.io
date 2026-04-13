@@ -75,69 +75,29 @@ Create a comprehensive alumni portal for Ateneo de Davao University featuring:
 #### 🎓 Alumni Module
 
 ##### Login Screen
-![Alumni Login](images/01-alumni-login.png)
-*Role selection between Alumni and Office Staff with email/password authentication, biometric login, and Google Sign-In options*
+![](https://github.com/andrebalagot0805/andrebalagot0805.github.io/blob/main/e7348d98-44f0-403a-8a6a-06556226b7c8.jpg)
 
-##### Alumni Dashboard
-![Alumni Dashboard](images/02-alumni-dashboard.png)
-*Main dashboard showing welcome message, digital credential card, quick actions, and account statistics with request count, verification status, and completed documents*
+![](https://github.com/andrebalagot0805/andrebalagot0805.github.io/blob/main/d4ed5ce0-7e62-4dcf-aabc-f5239a1d5787.jpg)
 
-##### My Profile - Academic Passport
-![Academic Passport](images/03-alumni-profile.png)
-*Digital Academic Passport with verified alumni status, academic information (program, graduation date), and contact details. Options to download PDF or share credential*
+![](https://github.com/andrebalagot0805/andrebalagot0805.github.io/blob/main/c6cc646a-2953-4f91-9464-c656605e451c.jpg)
 
-##### Request Documents
-![Document Request](images/04-alumni-documents.png)
-*Multi-step document request form showing various document types available (TOR, Diploma, Certificate of Graduation, Certificate of Enrollment, GWA Certificate, Honorable Dismissal, Document Authentication) with pricing and processing time*
+![](https://github.com/andrebalagot0805/andrebalagot0805.github.io/blob/main/be2f175a-0f23-4840-8c03-7a1db5365d7c.jpg)
 
-##### Full Transcript Viewer
-![Transcript Viewer](images/05-alumni-transcript.png)
-*Modal popup showing full transcript details including total credits (120), cumulative GPA (1.45), and graduation status (Graduated with Honors)*
+![](https://github.com/andrebalagot0805/andrebalagot0805.github.io/blob/main/a55513e4-b902-4ada-af6e-5e55a76cb260.jpg)
 
----
+![](https://github.com/andrebalagot0805/andrebalagot0805.github.io/blob/main/91dd7620-dd6d-43b1-a6ee-cba8cffdb581.jpg)
 
-#### 🏛️ Staff Module
+![](https://github.com/andrebalagot0805/andrebalagot0805.github.io/blob/main/6fdfb96d-2e69-43bb-9ac9-ee8ae8178708.jpg)
 
-##### Staff Login Screen
-![Staff Login](images/06-staff-login.png)
-*Login screen with Office Staff selected, showing employee number field instead of student number*
+![](https://github.com/andrebalagot0805/andrebalagot0805.github.io/blob/main/485af6c7-13e9-4385-aade-fb575d211da9.jpg)
 
-##### Staff Dashboard
-![Staff Dashboard](images/07-staff-dashboard.png)
-*Main staff dashboard for John Administrator showing different operations (Verification, Document Log, Process Documents, Inventory Alerts, Payment Verification) with quick actions and latest notifications*
+![](https://github.com/andrebalagot0805/andrebalagot0805.github.io/blob/main/271c0b4a-3b3a-4446-95d9-ce96124482e5.jpg)
 
-##### Staff My Profile
-![Staff Profile](images/08-staff-profile.png)
-*Staff member profile (John Administrator) showing academic information and access to manage biometrics or sign out*
+![](https://github.com/andrebalagot0805/andrebalagot0805.github.io/blob/main/24265f61-541d-4428-a085-904874879775.jpg)
 
-##### Verification Dashboard
-![Verification Dashboard](images/09-staff-verification.png)
-*Profile verification interface showing pending verifications and verified alumni count. Table displays student ID, name, program, and verification date submitted*
+![](https://github.com/andrebalagot0805/andrebalagot0805.github.io/blob/main/106205c9-85b3-4584-ad1b-ca9b5971b7f4.jpg)
 
-##### Document Log
-![Document Log](images/10-staff-document-log.png)
-*Document logging system for registrar staff with barcode/QR code scanning capabilities for automatic document tracking*
-
-##### Process Documents
-![Process Documents](images/11-staff-process-documents.png)
-*Active batch processing interface showing document preparation stages:
-- Pending: 2 batches ready
-- In Progress: 8 batches currently processing  
-- Completed: 24 batches ready to deliver
-- Progress bar for current batch processing (Transcript of Records)*
-
-##### Inventory Alerts
-![Inventory Alerts](images/12-staff-inventory.png)
-*Stock monitoring system showing:
-- Diploma Paper: Sufficient (2,450 units, reorder from 500 units)
-- Binding Materials: Critical (200 units remaining, needs reorder)*
-
-##### Payment Verification
-![Payment Verification](images/13-staff-payment.png)
-*Payment verification interface showing:
-- Unmatched Payments table with reference codes, amounts, and verification status
-- Document Log showing recent requests with status and amounts
-- Support for multiple payment methods (GCash, bank transfers)*
+![](https://github.com/andrebalagot0805/andrebalagot0805.github.io/blob/main/03146867-1d56-4188-9ee7-e97fa0ebed8b.jpg)
 
 ### Project Structure
 
